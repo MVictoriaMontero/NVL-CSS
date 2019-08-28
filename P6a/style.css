@@ -1,0 +1,60 @@
+table{
+	border: 5px solid aquamarine;
+}
+td{
+	border: 1px solid;
+}
+
+.nombreMineral{
+	font: italic small-caps  16px Georgia, sans-serif;
+}
+
+img{
+	width: 20%;
+}
+#elemento1{
+	background-color: white;
+	font:20px Georgia, sans-serif;
+}
+
+#elemento2{
+	background-color: #E6E6E6;
+	font:20px Georgia, sans-serif;
+}
+
+#elemento3{
+	background-color: #CCCCCC;
+	font:20px Georgia, sans-serif;
+}
+#elemento4{
+	background-color: #B3B3B3;
+	font:20px Georgia, sans-serif;
+}
+#elemento5{
+	background-color: #999999 ;
+	font:20px Georgia, sans-serif;
+}
+#elemento6{
+	background-color: #808080;
+	font:20px Georgia, sans-serif;
+}
+#elemento7{
+	background-color:#666666 ;
+	color: white;
+	font:20px Georgia, sans-serif;
+}
+#elemento8{
+	background-color: #4C4C4C;
+	color: white;
+	font:20px Georgia, sans-serif;
+}
+#elemento9{
+	background-color:#333333 ;
+	color: white;
+	font:20px Georgia, sans-serif;
+}
+#elemento10{
+	background-color: black ;
+	color: white;
+	font:20px Georgia, sans-serif;
+}
