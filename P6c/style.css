@@ -1,0 +1,30 @@
+[preparacion]{
+	font: oblique 17px Courier New, sans-serif;
+	text-align: justify;
+
+}
+[preparacion] li{
+	line-height: 27px;
+}
+
+[ingredientes]{
+	text-align: justify;
+	text-decoration: overline;
+	font: italic normal 400 15px Verdana, sans-serif;
+} 
+[ingredientes] li{
+	list-style: arabic-indic inside;
+}
+
+[formulario] {
+	border: 3px dotted grey;
+	padding: 20px;
+}
+[imagen-plato]{
+	width: 500px;
+	align-content: center;
+	border: 2px solid olive;
+	padding: 30px;
+	vertical-align: center;
+	margin: 10px
+}
